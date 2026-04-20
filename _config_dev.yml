@@ -1,0 +1,5 @@
+# Local development settings
+# This file overrides _config.yml when running locally.
+
+theme: jekyll-theme-hydejack
+remote_theme: null
