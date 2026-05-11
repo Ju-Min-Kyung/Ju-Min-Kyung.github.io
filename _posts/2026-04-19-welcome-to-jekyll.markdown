@@ -1,29 +1,23 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
-date:   2026-04-19 23:23:10 +0900
-categories: jekyll update
+title:  "[코드트리 후기] 1회차"
+date:   2026-05-11 23:23:10 +0900
+categories: 알고리즘
+tags: ["코드트리", "코딩테스트", "코테공부", "코테준비", "알고리즘공부", "갭체크"]
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+코드트리의 청약 통장 챌린지에 참여하려고 한다!
+코드트리의 커리큘럼을 통해 무료로 학습할 수 있는 기회를 준다고 하는데 7주동안 과제를 수행하면 된다.
+1회차는 갭체크를 통해 자신의 실력을 체크하는 것이다.
+7주차 모두 인증 완료 시 8월 31일까지 무료 연장이라는 좋은 기회다!
 
-Jekyll requires blog post files to be named according to the following format:
+나는 총 5문제를 받았다. 
+![코드트리 후기 이미지](/assets/img/codetree1.png)
+이렇게 나왔는데 조금 아쉬웠다 
 
-`YEAR-MONTH-DAY-title.MARKUP`
+나름 상반기에 많이 풀었다고 생가했는데 기본기를 쌓는 것보다 문제를 푸는 것에 초점을 둔 것 같다. 
+앞으로 코드트리의 커리큘럼을 꾸준히 따라가면서 다음 공채 시즌을 대비해 준비할 것이다.
+다른 문제풀이 사이트와 비교해 확실히 내 실력에 맞춘 커리큘럼으로 학습할 수 있어 좋은 것 같다.
 
-Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit numbers, and `MARKUP` is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.
-
-Jekyll also offers powerful support for code snippets:
-
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+아 그리고, 다른 후기를 보니 휴식을 취할 수 있다고 해서 문제를 풀다가 잠깐 나왔는데 
+다시 들어가보니 그 문제는 풀지 못한 것으로 남았다. 
+문제를 다 풀고 다음 문제로 넘어가기 전에 나와야 할 듯
